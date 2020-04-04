@@ -14,5 +14,5 @@ app.listen(3001, (err) => {
     throw err;
   }
 
-  console.info('service start finish，prot 3001。');
+  console.log('服务启动成功，监听端口3001。');
 });
